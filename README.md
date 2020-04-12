@@ -1,7 +1,7 @@
 # ci-catatan
 Aplikasi Catatan Keuangan By FIA ANGKASA Dev
 Dibuat dengan
-Code Igniter
+Codeigniter
 Boostrap
 Blade Template
 -- login --
